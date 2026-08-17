@@ -3,8 +3,8 @@
 Soy un desarrollador apasionado por la tecnología, enfocado en crear soluciones eficientes. Actualmente sigo ampliando mis conocimientos en la programación de software y explorando el mundo de las aplicaciones de inteligencia artificial.
 
 ### 🌱 Sobre mí
-- 🔭 Me encuentro desarrollando proyectos enfocados en la optimización de procesos informáticos.
-- 💻 Mi entorno de desarrollo principal es macOS (ARM64).
+- 🔭 Me encuentro desarrollando proyectos en **Python** y **FastAPI**.
+- 💻 Mi entorno de desarrollo principal es **macOS (ARM64)**.
 - 🤝 Estoy buscando colaborar en proyectos open-source para seguir mejorando mis habilidades.
 - 📫 Puedes contactarme en: [Mi LinkedIn](https://www.linkedin.com/in/roly-lunat)
 
@@ -23,16 +23,14 @@ Soy un desarrollador apasionado por la tecnología, enfocado en crear soluciones
 
 ### 📊 Mis Estadísticas en GitHub
 
-<!-- ATENCIÓN: Reemplaza RolyLuna por TU_USUARIO_GITHUB en los 2 enlaces siguientes -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RolyLuna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,pull_requests"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolyLuna&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roly-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,pull_requests"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roly-Luna&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
 ### ⏱️ Mis Horas de Código (WakaTime)
 
-<!-- NO BORRES ESTAS LÍNEAS. La Action inyectará los datos entre ellas -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
