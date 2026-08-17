@@ -23,14 +23,16 @@ Soy un desarrollador apasionado por la tecnología, enfocado en crear soluciones
 
 ### 📊 Mis Estadísticas en GitHub
 
+<!-- ATENCIÓN: Reemplaza RolyLuna por TU_USUARIO_GITHUB en los 2 enlaces siguientes -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roly-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roly-Luna&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RolyLuna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,pull_requests"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolyLuna&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
 ### ⏱️ Mis Horas de Código (WakaTime)
 
+<!-- NO BORRES ESTAS LÍNEAS. La Action inyectará los datos entre ellas -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
