@@ -18,19 +18,3 @@ Soy un desarrollador apasionado por la tecnología, enfocado en crear soluciones
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roly-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,pull_requests"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roly-Luna&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-### ⏱️ Mis Horas de Código (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
