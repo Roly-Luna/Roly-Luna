@@ -1,11 +1,36 @@
 # ¡Hola! Soy Roly 👋
 
-Soy un desarrollador enfocado en crear soluciones eficientes. Actualmente sigo formándome en programación y aplicaciones de inteligencia artificial.
+Soy un desarrollador apasionado por la tecnología, enfocado en crear soluciones eficientes. Actualmente sigo ampliando mis conocimientos en la programación de software y explorando el mundo de las aplicaciones de inteligencia artificial.
 
-### 💻 Tecnologías y Herramientas
-- **Lenguajes:** Python
-- **Frameworks:** FastAPI
-- **Entorno:** macOS / ARM64
+### 🌱 Sobre mí
+- 🔭 Me encuentro desarrollando proyectos enfocados en la optimización de procesos informáticos.
+- 💻 Mi entorno de desarrollo principal es macOS (ARM64).
+- 🤝 Estoy buscando colaborar en proyectos open-source para seguir mejorando mis habilidades.
+- 📫 Puedes contactarme en: [Mi LinkedIn](https://www.linkedin.com/in/roly-lunat)
 
-### 📫 Cómo contactarme
-- [Mi LinkedIn](www.linkedin.com/in/roly-lunat)
+### 🛠️ Mis Tecnologías
+
+**Nivel Intermedio:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Nivel Básico / Aprendiendo:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roly-Luna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roly-Luna&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### ⏱️ Mis Horas de Código (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
